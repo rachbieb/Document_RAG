@@ -11,7 +11,7 @@ Clone the repo and install with `pip`:
 
 ```bash
 # clone
-gh repo clone fkodom/document-rag
+git clone [fkodom/document-rag](https://github.com/rachbieb/Document_RAG)
 cd document-rag
 
 # install
